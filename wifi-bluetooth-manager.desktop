@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Wi-Fi & Bluetooth Manager
+GenericName=Network & Bluetooth Control
+Comment=Manage Wi-Fi networks, Bluetooth devices, and monitor live speeds
+Exec=wifi-ui
+Icon=wifi-bluetooth-manager
+Terminal=false
+Categories=Network;Settings;HardwareSettings;
+Keywords=wifi;wireless;bluetooth;network;speed;
+StartupNotify=true
